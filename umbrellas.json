@@ -1,0 +1,130 @@
+{
+  "Umbrellas": {
+    "umbrella1": {
+      "area": "Frederiksberg",
+      "availableUmbrellas": 20,
+      "latitude": 55.679726,
+      "longitude": 12.534254,
+      "type": "Standard Umbrella"
+    },
+    "umbrella2": {
+      "area": "Nørreport",
+      "availableUmbrellas": 20,
+      "latitude": 55.683167,
+      "longitude": 112.57139,
+      "type": "Standard Umbrella"
+    },
+    "umbrella3": {
+      "area": "Kongens Nytorv",
+      "availableUmbrellas": 20,
+      "latitude": 55.67940927760782,
+      "longitude": 12.585187374780569,
+      "type": "Standard Umbrella"
+    },
+    "umbrella4": {
+      "area": "Christianshavn",
+      "availableUmbrellas": 20,
+      "latitude": 55.672309210314324,
+      "longitude": 12.591217150740473,
+      "type": "Compact Umbrella"
+    },
+    "umbrella5": {
+      "area": "Amagerbro",
+      "availableUmbrellas": 20,
+      "latitude": 55.66354074,
+      "longitude": 12.60269859,
+      "type": "Standard Umbrella"
+    },
+    "umbrella6": {
+      "area": "Ørestad",
+      "availableUmbrellas": 20,
+      "latitude": 55.62839515,
+      "longitude": 12.57924778,
+      "type": "Standard Umbrella"
+    },
+    "umbrella7": {
+      "area": "Vanløse",
+      "availableUmbrellas": 20,
+      "latitude": 55.687368,
+      "longitude": 12.491345,
+      "type": "Standard Umbrella"
+    },
+    "umbrella8": {
+      "area": "Vesterport",
+      "availableUmbrellas": 20,
+      "latitude": 55.675750,
+      "longitude": 12.562380,
+      "type": "Standard Umbrella"
+    },
+    "umbrella9": {
+      "area": "Frederiksberg Allé",
+      "availableUmbrellas": 20,
+      "latitude": 55.67370536409747,
+      "longitude": 12.544759,
+      "type": "Standard Umbrella"
+    },
+    "umbrella10": {
+      "area": "Nørrebro Station",
+      "availableUmbrellas": 20,
+      "latitude": 55.700839,
+      "longitude": 12.54041554146035,
+      "type": "Compact Umbrella"
+    },
+    "umbrella11": {
+      "area": "Gammel Strand",
+      "availableUmbrellas": 20,
+      "latitude": 55.67774710649356,
+      "longitude": 12.579551162869281,
+      "type": "Standard Umbrella"
+    },
+    "umbrella12": {
+      "area": "Hovedbanegården",
+      "availableUmbrellas": 50,
+      "latitude": 55.672778,
+      "longitude": 12.564444,
+      "type": "Standard Umbrella"
+    },
+    "umbrella13": {
+      "area": "Nørrebros Runddel",
+      "availableUmbrellas": 20,
+      "latitude": 55.69391412623871,
+      "longitude": 12.548861306957267,
+      "type": "Standard Umbrella"
+    },
+    "umbrella14": {
+      "area": "Aksel Møllers Have",
+      "availableUmbrellas": 20,
+      "latitude": 555.68637577,
+      "longitude": 12.5331827,
+      "type": "Standard Umbrella"
+    },
+    "umbrella15": {
+      "area": "Poul Henningsens Plads",
+      "availableUmbrellas": 20,
+      "latitude": 55.70926921029775,
+      "longitude": 12.576683394376412,
+      "type": "Standard Umbrella"
+    },
+    "umbrella16": {
+      "area": "Trianglen",
+      "availableUmbrellas": 20,
+      "latitude": 55.699167,
+      "longitude": 12.575556,
+      "type": "Standard Umbrella"
+    },
+    "umbrella17": {
+      "area": "Nordhavn",
+      "availableUmbrellas": 20,
+      "latitude": 55.70468673,
+      "longitude": 12.59111611,
+      "type": "Standard Umbrella"
+    },
+    "umbrella18": {
+      "area": "Forum",
+      "availableUmbrellas": 20,
+      "latitude": 55.681759463100875,
+      "longitude": 12.552823916465535,
+      "type": "Standard Umbrella"
+    }
+  }
+}
